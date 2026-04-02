@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">KODEX SCRIPTS</h1>
 
-<!--
-**kodexscripts/kodexscripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Premium FiveM Development • ESX • QBCore • Standalone
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About
+Kodex Scripts builds high-performance FiveM systems focused on clean UI, optimization, and scalability.
+
+---
+
+## 🧩 Products
+
+### 🔔 Kodex Notify
+Advanced Notification & Job Announcement Suite  
+✔ ESX / QBCore / Standalone  
+✔ Optimized (0.00ms)  
+✔ Fully customizable  
+
+👉 Purchase: https://kodexscripts.tebex.io/
+
+---
+
+## 🛒 Store
+https://kodexscripts.tebex.io/
+
+---
+
+## 💬 Support
+Join our Discord for updates & support
+
+---
+
+## ⚠️ Note
+All scripts are sold exclusively via Tebex.  
+No downloads are provided on GitHub.
+
+---
+
+## 📌 Status
+🟢 Active Development
