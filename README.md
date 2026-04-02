@@ -24,10 +24,10 @@ Advanced Notification & Job Announcement Suite
 ---
 
 ## 🛒 Stores
-ᴛᴇʙᴇx: https://kodexscripts.tebex.io/
-ᴅᴏᴄꜱ: https://kodexscripts.gitbook.io/
-ᴅɪꜱᴄᴏʀᴅ: https://discord.gg/ECBnhHKWjc
-ʏᴏᴜᴛᴜʙᴇ:https://www.youtube.com/@KodexScripts
+ᴛᴇʙᴇx: https://kodexscripts.tebex.io/ 
+ᴅᴏᴄꜱ: https://kodexscripts.gitbook.io/ 
+ᴅɪꜱᴄᴏʀᴅ: https://discord.gg/ECBnhHKWjc 
+ʏᴏᴜᴛᴜʙᴇ:https://www.youtube.com/@KodexScripts 
 
 
 ---
